@@ -1,0 +1,11 @@
+.parcel-cache
+
+dist
+
+node_modules
+
+.babelrc
+
+.vscode
+ 
+.postcssrc
